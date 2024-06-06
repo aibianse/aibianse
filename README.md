@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
 
 Presto官方文档：https://prestodb.io/docs/current/index.html
 
@@ -169,5 +168,3 @@ select id,
        etl_time,
        insert_time
 from test_2
-
--->
